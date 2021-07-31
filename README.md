@@ -11,9 +11,7 @@ This new assignment consists of three technical analyses based on Python and Goo
 - Deliverable 2: Create a Customer Travel Destinations Map
 - Deliverable 3: Create a Travel Itinerary Map
 
-Uploaded structure to the World_Weather_Analysis repository:
-
-## The Weather_Database folder with the following:
+## Uploaded structure to the World_Weather_Analysis repository:
 
 ### The Weather_Database folder with the following:
 - The Weather_Database.ipynb file
